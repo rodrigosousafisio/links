@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[7830,["234","static/chunks/234-6bf82b4a34f512e2.js","416","static/chunks/app/timer/page-5f7e6ba38b6fcf43.js"],"TabataApp"]
+2:I[7830,["234","static/chunks/234-6bf82b4a34f512e2.js","416","static/chunks/app/timer/page-5d29a66881c3d1b6.js"],"TabataApp"]
 3:I[484,[],"OutletBoundary"]
 4:"$Sreact.suspense"
 :HL["/links/_next/static/css/2367522c97d53ec4.css","style"]
-0:{"buildId":"o_6c_LCllKl78beQNhO4i","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/links/_next/static/css/2367522c97d53ec4.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"_b_4RV5aNYI0T_FjpWxi7","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/links/_next/static/css/2367522c97d53ec4.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null

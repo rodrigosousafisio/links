@@ -157,6 +157,7 @@
       "maskable": "/brand/icon-maskable.png"
     },
     "shareUrl": "https://rodrigosousafisio.github.io/links/timer/",
+    "defaultWorkoutsFolderName": "Treinos RA",
     "defaultWorkouts": [
       {
         "id": "bike",
